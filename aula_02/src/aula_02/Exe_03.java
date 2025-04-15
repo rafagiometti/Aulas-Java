@@ -26,7 +26,6 @@ public class Exe_03 {
 		System.out.printf("\n Salário Liquido: %.2f", salliquido);
 		
 		
-		
 
 	}
 
