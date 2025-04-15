@@ -30,4 +30,8 @@ public class exe_01 {
 		
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 60dc1af6ddff466fd2e35690609311c1b67a4c97
