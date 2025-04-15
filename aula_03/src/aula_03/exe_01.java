@@ -1,10 +1,33 @@
 package aula_03;
 
-public class Exe_01 {
+import java.util.Scanner;
+
+public class exe_01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner leia= new Scanner(System.in);
+		
+		int A, B, C, soma;
+		
+		System.out.printf("Digite o número A: ");
+		A = leia.nextInt();
+		
+		System.out.printf("\n Digite o número B:");
+		B = leia.nextInt();
+		
+		System.out.printf("\n Digite o número C:");
+		C = leia.nextInt();
+		
+		soma = A + B;
+		
+		
+		if(soma > C) {
 
+			System.out.printf("\n %d + %d = %d > %d", A, B, soma, C);
+			System.out.printf("\n A Soma de A + B é Maior que C");
+			
+		}
+		
 	}
 
 }
