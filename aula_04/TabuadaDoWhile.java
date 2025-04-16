@@ -15,7 +15,7 @@ public class TabuadaDoWhile {
 			do {
 				System.out.printf("\n %d x %d = %d", numero, contador, (numero * contador));
 				contador++;
-			}while(contador <= 10);
+			}while(contador <= 10); 
 			
 			leia.close();
 
