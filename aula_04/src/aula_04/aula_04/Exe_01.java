@@ -16,7 +16,7 @@ public class Exe_01 {
         numero2 = leia.nextInt();
 
         if (numero1 >= numero2) {
-            System.out.println("Intervalo Inválido, o primeiro número deve ser menor que o segundo");
+            System.out.println("Intervalo Inválido");
         } else {
             for (i = numero1; i <= numero2; i++) {
                 if ((i % 3 == 0) && (i % 5 == 0)) {
