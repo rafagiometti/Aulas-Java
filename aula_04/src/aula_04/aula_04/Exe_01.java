@@ -6,7 +6,7 @@ public class Exe_01 {
 
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
-        int numero1, numero2;  
+        int numero1, numero2;   
         int i;
 
         System.out.println("Digite o primeiro número do intervalo:");
