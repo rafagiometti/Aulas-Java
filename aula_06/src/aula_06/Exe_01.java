@@ -20,11 +20,9 @@ public class Exe_01 {
 		}
 		
 		
-		
 		System.out.println("Listar todas as cores:");
 		
 		System.out.println(cores);
-		
 		
 		Collections.sort(cores);
 		
@@ -33,6 +31,7 @@ public class Exe_01 {
 		System.out.println(cores);
 		
 		
+		leia.close();
 		
 		}
 
