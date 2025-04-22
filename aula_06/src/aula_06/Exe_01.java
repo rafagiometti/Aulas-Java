@@ -8,7 +8,7 @@ public class Exe_01 {
 
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
-		
+		 
 		ArrayList<String> cores = new ArrayList<>();
 		int i;
 		String cor;
