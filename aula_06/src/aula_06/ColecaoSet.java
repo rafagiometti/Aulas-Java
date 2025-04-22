@@ -42,16 +42,16 @@ public class ColecaoSet {
 			
 		}
 		
-		// Criando ArrayliTS
+		// Criando ArrayList (frutaslist)
 		ArrayList<String> frutaslist = new ArrayList<String>();
 		
 		// Add todos os elementos do set na minha lista
 		frutaslist.addAll(frutas);
 		
-		//Ordenando 
+		//Ordenando frutaslist em ordem crescente (alfabetica)
 		frutaslist.sort(null);
 		
-		// Exibindo todos os dados do ArrayList
+		// Exibindo todos os dados do fruutalist em ordem crescente
 		frutaslist.forEach(System.out::println);
 		
 	}
