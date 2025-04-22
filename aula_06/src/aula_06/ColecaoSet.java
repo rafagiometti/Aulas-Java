@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 public class ColecaoSet {
-
+ 
 	public static void main(String[] args) {
 
 		Set<String> frutas = new HashSet<String>();
