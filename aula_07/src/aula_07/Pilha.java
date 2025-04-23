@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class Pilha {
-
+ 
 	public static void main(String[] args) {
 		
 		Scanner leia = new Scanner(System.in);
