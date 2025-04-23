@@ -34,8 +34,4 @@ public class Exe_04 {
 	}
 
 }
-
-	
-	
-		
 	
