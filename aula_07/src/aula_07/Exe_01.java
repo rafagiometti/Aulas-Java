@@ -53,7 +53,7 @@ public class Exe_01 {
 					break;
 
 				case 0:
-					System.out.println("Programa finalizado!");
+					System.out.println("");
 					break;
 
 				default:
