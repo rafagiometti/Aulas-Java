@@ -23,7 +23,7 @@ public class Exe_01 {
 		do {
 			System.out.print("\nDigite uma opção: ");
 			resposta = leia.nextInt();
-			leia.nextLine(); // Limpa o Enter pendente
+			leia.nextLine(); 
 
 			System.out.println("\n------------------------------------------------");
 
