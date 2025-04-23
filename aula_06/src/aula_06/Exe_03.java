@@ -8,7 +8,7 @@ import java.util.Set;
 public class Exe_03 {
 
 	public static void main(String[] args) {
-		Scanner leia = new Scanner(System.in);
+		Scanner leia = new Scanner(System.in); 
 		Set<Integer> numeros = new HashSet<>(10);
 		int numero, i;
 		
