@@ -7,7 +7,7 @@ public class Exe_02 {
         int i, soma = 0;
         int vet[] = new int[10];
         double media;
-
+ 
         for (i = 0; i < 10; i++) {
             System.out.print("Digite um número inteiro: ");
             vet[i] = leia.nextInt();
