@@ -42,6 +42,7 @@ public class Pilha {
 		pilha.push(leia.nextLine());
 		
 		System.out.println(pilha);
+		leia.close();
 		
 	}
 }
